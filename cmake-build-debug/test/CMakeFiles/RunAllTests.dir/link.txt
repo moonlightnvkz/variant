@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/RunAllTests.dir/MyVariantTest.cpp.o  -o RunAllTests -Wl,-rpath,/home/akarpovskii/Programming/C-C++/oop/block8/MyVariant/cmake-build-debug ../lib/googletest-master/googlemock/gtest/libgtest.a ../lib/googletest-master/googlemock/gtest/libgtest_main.a ../libMyVariant_lib.so ../lib/googletest-master/googlemock/gtest/libgtest.a -pthread 

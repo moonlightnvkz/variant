@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/_exe.dir/main.cpp.o CMakeFiles/_exe.dir/test/MyVariantTest.cpp.o  -o _exe lib/googletest-master/googlemock/gtest/libgtest.a lib/googletest-master/googlemock/gtest/libgtest_main.a lib/googletest-master/googlemock/gtest/libgtest.a -pthread 
