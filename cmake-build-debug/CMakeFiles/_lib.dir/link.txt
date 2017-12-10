@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,lib_lib.so -o lib_lib.so CMakeFiles/_lib.dir/main.cpp.o CMakeFiles/_lib.dir/test/MyVariantTest.cpp.o 

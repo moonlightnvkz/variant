@@ -1,4 +1,0 @@
-/home/akarpovskii/CLion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/akarpovskii/Programming/C-C++/oop/block8/MyVariant
--- Configuring done
--- Generating done
--- Build files have been written to: /home/akarpovskii/Programming/C-C++/oop/block8/MyVariant/cmake-build-debug
